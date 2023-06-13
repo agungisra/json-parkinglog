@@ -1,5 +1,6 @@
 [
   {"nama" : "Innova", "merk" : "Toyota", "gambar" : "innova"},
   {"nama" : "Xpander", "merk" : "Mitsubishi", "gambar" : "xpander"},
-  {"nama" : "Almaz", "merk" : "Wuling", "gambar" : "almaz"}
+  {"nama" : "Almaz", "merk" : "Wuling", "gambar" : "almaz"},
+  {"nama" : "Brio", "merk" : "Honda", "gambar" : "brio"}
  ]
