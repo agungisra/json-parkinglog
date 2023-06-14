@@ -1,6 +1,6 @@
 [
-  {"nama" : "Innova", "jenis" : "Toyota", "gambar" : "innova"},
-  {"nama" : "Xpander", "jenis" : "Mitsubishi", "gambar" : "xpander"},
-  {"nama" : "Almaz", "jenis" : "Wuling", "gambar" : "almaz"},
-  {"nama" : "Brio", "jenis" : "Honda", "gambar" : "brio"}
+  {"nama" : "Innova", "jenis" : "Mobil", "gambar" : "innova"},
+  {"nama" : "Xpander", "jenis" : "Mobil", "gambar" : "xpander"},
+  {"nama" : "Almaz", "jenis" : "Mobil", "gambar" : "almaz"},
+  {"nama" : "Brio", "jenis" : "Mobil", "gambar" : "brio"}
  ]
