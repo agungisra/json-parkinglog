@@ -2,5 +2,9 @@
   {"nama" : "Innova", "jenis" : "Mobil", "gambar" : "innova"},
   {"nama" : "Xpander", "jenis" : "Mobil", "gambar" : "xpander"},
   {"nama" : "Almaz", "jenis" : "Mobil", "gambar" : "almaz"},
-  {"nama" : "Brio", "jenis" : "Mobil", "gambar" : "brio"}
+  {"nama" : "Brio", "jenis" : "Mobil", "gambar" : "brio"},
+  {"nama" : "Vario", "jenis" : "Motor", "gambar" : "vario"},
+  {"nama" : "Gsx", "jenis" : "Motor", "gambar" : "gsx"},
+  {"nama" : "Vario", "jenis" : "Motor", "gambar" : "vario"},
+  {"nama" : "vespa", "jenis" : "Motor", "gambar" : "vespa"}
  ]
